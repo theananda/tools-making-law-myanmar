@@ -50,6 +50,11 @@
           box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'MyanmarSabae';
+  src: url('fonts/MyanmarSabae.ttf');
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
